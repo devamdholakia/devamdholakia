@@ -2,7 +2,7 @@
 
 CS student at the **University of Central Florida** (B.S. '28). I like backend systems: queues, delivery guarantees, and the parts of a service that only matter when something is already going wrong.
 
-- 🛠️ Software Engineering Intern at **USAA** (Summer 2026), working on Spring Boot, GraphQL, and an internal CRM platform
+- 🛠️ Prev. Software Engineering Intern at **USAA** (Summer 2026), working on Spring Boot, GraphQL, and an internal CRM platform
 - 🔬 Research Assistant at UCF's **ISUE Lab**, on language-conditioned 3D scene generation
 - 🎓 Secretary of **AI@UCF**
 - 📫 [LinkedIn](https://linkedin.com/in/devam-dholakia) · devd4312@gmail.com
